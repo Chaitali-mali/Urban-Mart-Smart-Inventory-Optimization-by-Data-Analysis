@@ -35,4 +35,4 @@ Author
 Chaitali Mali
 📧 Email: chaitalimali902@gmail.com
 
-## Folder Structure
+🚀 GitHub Repository: https://github.com/Chaitali-mali/Urban-Mart-Smart-Inventory-Optimization-by-Data-Analysis
